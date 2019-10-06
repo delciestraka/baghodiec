@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xohpielae.javior.wang/sitemap.xml
